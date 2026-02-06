@@ -38,14 +38,16 @@ The image folder added above contains the folder structure's screenshots.
 
 ## How to Run the Project
 
-Ensure Dart SDK is installed. If not, download and install it from https://dart.dev/get-dart
+Ensure Dart SDK is installed. If not, download and install it from https://dart.dev/get-dart, You can follow installation instructions from above site.
 then run:
 
 ```bash
 dart run bin/main.dart
 ```
+
 or
-Depending on your configurations
+Depending on your configuration.
+
 ```bash
 dart main.dart
 ```
