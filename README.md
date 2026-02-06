@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-
-# Dart Programming Lab 1
+# Dart Programming Lab 1 || Group 6
 
 ## Student Information
 
-- Course: Mobile Application Systems and Desig
-- Assignment: Dart Programming LAB ONE
+- Course: Mobile Application Systems and Design
+- Assignment: Dart Programming LAB 1
 
 ## Project Overview
 
@@ -40,16 +38,14 @@ The image folder added above contains the folder structure's screenshots.
 
 ## How to Run the Project
 
-Ensure Dart SDK is installed, then run:
+Ensure Dart SDK is installed. If not, download and install it from https://dart.dev/get-dart
+then run:
 
 ```bash
 dart run bin/main.dart
 ```
-
-=======
-
-# dart-programming-lab-1
-
-dart-programming-lab-1 Group 6
-
-> > > > > > > ca3ad6ee8f3e164ebf372e6d71350c5ff09ef5ec
+or
+Depending on your configurations
+```bash
+dart main.dart
+```
