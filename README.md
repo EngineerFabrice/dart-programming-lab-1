@@ -9,8 +9,7 @@
 
 ## Project Overview
 
-This laboratory assignment is designed to practice core Dart programming concepts.
-All solutions were implemented individually as required, with clear outputs and supporting documentation.
+This lab assignment focuses on practicing core Dart programming concepts. Each solution was completed individually, with clear outputs and accompanying documentation.
 
 The project demonstrates the following Dart concepts:
 
@@ -44,7 +43,7 @@ The image folder added above contains the folder structure's screenshots.
 Ensure Dart SDK is installed, then run:
 
 ```bash
-dart run bin/main.dart or dart main.dart
+dart run bin/main.dart
 ```
 
 =======
