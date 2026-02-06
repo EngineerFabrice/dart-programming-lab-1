@@ -11,7 +11,7 @@ Future<void> main() async {
   print("Printing welcome message:\n");
   welcomeMessage();
 
-  print("\nCreating students and teachers:\n");
+  print("\nCreating students and teachers:  \n");
   createStudent(name: "Claver", age: 23);
   createTeacher("Dr. Ange", subject: "Microprocessor");
   createTeacher("Dr. Alexandre");
