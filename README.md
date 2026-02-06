@@ -1,10 +1,11 @@
 <<<<<<< HEAD
+
 # Dart Programming Lab 1
 
 ## Student Information
 
-- Course: Mobile Application Systems and Design
-- Assignment: Dart Programming Lab 1
+- Course: Mobile Application Systems and Desig
+- Assignment: Dart Programming LAB ONE
 
 ## Project Overview
 
@@ -45,7 +46,11 @@ Ensure Dart SDK is installed, then run:
 ```bash
 dart run bin/main.dart or dart main.dart
 ```
+
 =======
+
 # dart-programming-lab-1
-dart-programming-lab-1  Group 6
->>>>>>> ca3ad6ee8f3e164ebf372e6d71350c5ff09ef5ec
+
+dart-programming-lab-1 Group 6
+
+> > > > > > > ca3ad6ee8f3e164ebf372e6d71350c5ff09ef5ec
